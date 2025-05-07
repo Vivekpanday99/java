@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "loop.java_5e63151e"
+        },
+        {
+            "type": "java",
+            "name": "parent",
+            "request": "launch",
+            "mainClass": "parent",
+            "projectName": "loop.java_5e63151e"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumbersInRange",
+            "request": "launch",
+            "mainClass": "EvenNumbersInRange",
+            "projectName": "loop.java_5e63151e"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumbers",
+            "request": "launch",
+            "mainClass": "NaturalNumbers",
+            "projectName": "loop.java_5e63151e"
+        },
+        {
+            "type": "java",
             "name": "Hello",
             "request": "launch",
             "mainClass": "Hello",
